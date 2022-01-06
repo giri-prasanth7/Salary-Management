@@ -172,7 +172,7 @@ class startpage :
         self.password.place(x = 385, y = 225)
         check.place(x = 534, y = 225)
 
-        self.messg = "Adita Ramesh \n Giri Prasanth \n Krithk Raju \n Venkat Ganesh  " 
+        self.messg = "Giri Prasanth " 
 
         def like(event) :
 
